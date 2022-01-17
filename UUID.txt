@@ -1,0 +1,8 @@
+selectedDeviceId : BluetoothLE#BluetoothLE00:15:83:e7:29:8a-b8:27:eb:c4:8e:14
+selectedServiceId : {0000c103-0000-1000-8000-00805f9b34fb}
+selectedCharacteristicId : {12345555-5555-5555-5555-555555555511}
+
+        await Task.Run(() =>
+        {
+
+        });
